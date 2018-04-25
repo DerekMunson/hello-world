@@ -1,2 +1,3 @@
 # hello-world
-Created by following the Hello World tutorial.
+
+This is a test of my very first file edit on Github. Pretty excited to finally be learning about Git!
